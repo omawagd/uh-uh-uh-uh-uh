@@ -5,7 +5,7 @@ license is= wtf bro did you really expect it
 🔮 JagTrollProtocol.js
 The Ultimate Arras.io Console Script for Brandable Mischief
 Infuses your tank with unnecessary ASCII power, status banners, and retro callbacks
-Written by Lord Oliver the Legacy 🧙‍♂️
+Written by Lord O****r the Legacy 🧙‍♂️
 */
 
 (function () {
